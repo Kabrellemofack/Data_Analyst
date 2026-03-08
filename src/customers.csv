@@ -1,0 +1,1001 @@
+customer_id,age,gender,city,visits,purchases,total_spent,campaign,last_purchase_days
+1,54,Female,Marseille,5,0,0,Email,168
+2,65,Male,Toulouse,46,23,4209,Ads,331
+3,18,Female,Lyon,44,28,9688,Social Media,262
+4,65,Female,Marseille,20,6,2610,Social Media,269
+5,34,Male,Lyon,21,5,440,Social Media,335
+6,32,Male,Toulouse,15,13,3120,Ads,114
+7,20,Male,Toulouse,8,7,483,Ads,362
+8,50,Male,Toulouse,23,8,344,Ads,294
+9,53,Male,Paris,13,1,238,Ads,335
+10,27,Female,Lyon,6,6,1956,Social Media,281
+11,21,Male,Paris,20,15,1200,Social Media,55
+12,23,Male,Paris,11,7,2100,Ads,332
+13,32,Female,Lyon,28,0,0,Social Media,310
+14,26,Male,Toulouse,5,3,801,Ads,146
+15,43,Male,Paris,39,29,4089,Social Media,216
+16,65,Female,Paris,27,10,990,Ads,41
+17,26,Female,Toulouse,7,4,672,Social Media,48
+18,32,Female,Paris,9,7,2303,Email,307
+19,25,Male,Lyon,13,4,144,Social Media,35
+20,47,Male,Marseille,27,0,0,Ads,154
+21,41,Male,Marseille,3,2,402,Email,223
+22,50,Female,Toulouse,19,9,378,Email,307
+23,56,Female,Toulouse,48,8,3264,Ads,236
+24,63,Female,Paris,30,0,0,Social Media,60
+25,56,Female,Lyon,44,11,2013,Social Media,102
+26,45,Female,Marseille,7,3,963,Social Media,307
+27,35,Male,Toulouse,32,4,1072,Social Media,6
+28,53,Male,Lyon,10,5,1065,Email,63
+29,63,Female,Lyon,29,3,390,Social Media,263
+30,54,Female,Lyon,47,35,2940,Social Media,110
+31,21,Male,Marseille,48,27,10935,Email,325
+32,60,Male,Marseille,18,14,6272,Ads,43
+33,63,Female,Lyon,3,0,0,Social Media,144
+34,38,Male,Toulouse,29,24,9888,Social Media,118
+35,18,Female,Lyon,32,11,649,Social Media,36
+36,37,Male,Paris,8,7,329,Ads,316
+37,20,Female,Toulouse,12,2,460,Email,99
+38,49,Female,Marseille,35,25,6875,Ads,259
+39,46,Female,Paris,18,18,5292,Email,183
+40,38,Female,Lyon,20,3,1413,Social Media,132
+41,53,Female,Toulouse,7,0,0,Email,67
+42,30,Female,Lyon,18,16,4624,Ads,79
+43,25,Male,Toulouse,14,3,81,Ads,186
+44,55,Male,Toulouse,4,2,998,Email,252
+45,29,Female,Paris,42,21,8463,Social Media,321
+46,46,Male,Marseille,12,1,261,Ads,110
+47,57,Male,Lyon,30,25,1525,Ads,314
+48,40,Female,Toulouse,10,8,1600,Email,281
+49,59,Male,Toulouse,43,0,0,Ads,271
+50,32,Female,Marseille,35,0,0,Ads,329
+51,65,Female,Marseille,20,9,3933,Social Media,274
+52,20,Female,Marseille,28,7,679,Ads,46
+53,33,Female,Paris,15,0,0,Social Media,144
+54,58,Male,Toulouse,40,2,68,Email,318
+55,53,Female,Lyon,4,2,474,Social Media,219
+56,40,Male,Paris,26,22,9284,Ads,104
+57,38,Male,Lyon,20,2,654,Social Media,278
+58,54,Male,Toulouse,23,13,1274,Social Media,151
+59,60,Male,Paris,15,14,5824,Ads,94
+60,43,Female,Toulouse,12,8,920,Ads,155
+61,48,Female,Paris,45,19,5301,Social Media,124
+62,53,Female,Toulouse,28,1,423,Ads,245
+63,21,Male,Paris,47,5,820,Ads,106
+64,63,Female,Paris,21,8,2584,Email,100
+65,63,Male,Paris,20,1,121,Social Media,308
+66,58,Male,Paris,36,33,13959,Ads,58
+67,26,Male,Toulouse,20,10,1530,Ads,314
+68,36,Male,Toulouse,15,4,248,Email,242
+69,33,Female,Lyon,37,15,6240,Email,8
+70,63,Female,Toulouse,26,3,246,Ads,225
+71,44,Female,Toulouse,8,0,0,Ads,335
+72,34,Female,Toulouse,44,28,1400,Social Media,59
+73,25,Male,Lyon,27,23,10672,Ads,39
+74,39,Male,Paris,18,5,835,Ads,299
+75,21,Female,Toulouse,7,2,510,Email,148
+76,46,Female,Marseille,16,7,595,Social Media,303
+77,23,Male,Paris,35,21,10437,Email,56
+78,58,Female,Marseille,31,10,4290,Email,106
+79,25,Male,Marseille,36,35,6755,Email,154
+80,18,Female,Paris,6,2,610,Social Media,304
+81,19,Male,Lyon,35,0,0,Email,14
+82,28,Female,Toulouse,29,21,1302,Ads,182
+83,46,Female,Paris,46,11,3344,Social Media,89
+84,37,Female,Toulouse,44,4,1088,Ads,47
+85,53,Male,Paris,29,14,4914,Email,111
+86,23,Female,Paris,10,6,126,Social Media,128
+87,36,Male,Marseille,13,3,753,Email,158
+88,42,Male,Paris,6,5,960,Email,344
+89,18,Male,Lyon,23,5,2335,Social Media,209
+90,25,Female,Lyon,36,15,4200,Ads,100
+91,36,Male,Marseille,11,10,2380,Email,170
+92,25,Female,Paris,8,4,844,Email,162
+93,38,Male,Toulouse,30,17,6409,Ads,169
+94,21,Female,Marseille,20,4,332,Email,202
+95,44,Male,Paris,30,22,2574,Social Media,347
+96,42,Female,Lyon,30,0,0,Email,318
+97,23,Female,Paris,39,35,2170,Social Media,34
+98,39,Male,Marseille,2,2,918,Social Media,148
+99,18,Male,Lyon,1,1,282,Social Media,245
+100,44,Female,Toulouse,9,0,0,Email,349
+101,35,Female,Paris,30,4,440,Social Media,223
+102,30,Male,Paris,5,1,132,Email,36
+103,24,Female,Paris,22,20,6400,Email,93
+104,56,Female,Lyon,1,0,0,Email,266
+105,60,Male,Marseille,27,26,7072,Email,238
+106,49,Male,Marseille,31,11,4719,Social Media,319
+107,31,Female,Paris,17,5,1550,Social Media,132
+108,52,Male,Paris,28,25,9600,Social Media,220
+109,52,Male,Toulouse,28,3,222,Ads,22
+110,62,Female,Lyon,5,2,212,Ads,260
+111,58,Female,Marseille,46,15,4110,Social Media,256
+112,39,Male,Lyon,32,18,8874,Social Media,275
+113,46,Male,Toulouse,19,1,357,Ads,153
+114,31,Male,Marseille,15,3,708,Social Media,299
+115,63,Female,Paris,13,12,5784,Email,292
+116,25,Male,Marseille,9,5,1485,Social Media,126
+117,39,Male,Toulouse,45,38,5624,Social Media,362
+118,62,Female,Marseille,31,28,12292,Ads,20
+119,41,Male,Toulouse,30,8,3032,Email,150
+120,47,Male,Toulouse,4,0,0,Social Media,33
+121,50,Male,Marseille,42,8,3752,Social Media,38
+122,32,Male,Lyon,20,15,3735,Ads,354
+123,27,Male,Lyon,14,11,2739,Email,153
+124,41,Male,Paris,23,3,999,Ads,269
+125,60,Male,Lyon,17,17,3196,Ads,92
+126,27,Male,Toulouse,42,27,3537,Email,271
+127,63,Female,Paris,45,32,7488,Email,21
+128,54,Male,Paris,42,38,1672,Social Media,73
+129,37,Female,Toulouse,26,0,0,Ads,205
+130,25,Male,Marseille,17,12,2604,Ads,132
+131,56,Female,Toulouse,2,1,199,Ads,355
+132,61,Female,Marseille,45,5,1360,Ads,10
+133,56,Female,Lyon,25,22,6930,Ads,361
+134,42,Female,Marseille,42,34,7344,Email,222
+135,35,Male,Paris,19,19,6555,Social Media,160
+136,31,Female,Paris,47,33,1023,Social Media,251
+137,18,Male,Marseille,26,2,680,Email,345
+138,38,Male,Paris,44,13,702,Ads,107
+139,34,Male,Toulouse,32,14,4746,Email,344
+140,64,Female,Marseille,27,1,496,Ads,195
+141,34,Male,Paris,7,6,408,Social Media,111
+142,59,Male,Marseille,20,6,192,Email,156
+143,62,Male,Lyon,3,1,447,Email,343
+144,40,Male,Lyon,13,7,2919,Ads,170
+145,35,Male,Lyon,3,0,0,Email,108
+146,59,Female,Paris,3,3,273,Social Media,219
+147,47,Female,Marseille,7,2,868,Ads,14
+148,32,Male,Toulouse,48,31,2356,Ads,35
+149,62,Female,Toulouse,3,0,0,Social Media,327
+150,19,Female,Marseille,18,6,2892,Email,248
+151,32,Female,Lyon,29,28,9408,Social Media,25
+152,42,Female,Paris,34,28,6328,Email,126
+153,25,Female,Paris,50,6,1542,Email,209
+154,43,Female,Toulouse,16,0,0,Social Media,138
+155,57,Male,Marseille,34,32,5568,Email,96
+156,44,Male,Lyon,6,5,1220,Ads,270
+157,25,Female,Lyon,40,9,792,Social Media,223
+158,42,Female,Lyon,35,11,5324,Ads,129
+159,31,Female,Toulouse,34,22,1100,Ads,240
+160,65,Female,Marseille,4,0,0,Social Media,66
+161,49,Female,Toulouse,8,3,810,Ads,198
+162,42,Female,Lyon,4,2,218,Email,352
+163,65,Female,Toulouse,32,32,11968,Email,159
+164,36,Male,Marseille,40,2,42,Social Media,144
+165,21,Male,Paris,10,5,975,Social Media,41
+166,48,Male,Paris,46,44,16192,Social Media,240
+167,23,Male,Paris,50,47,2820,Ads,148
+168,53,Male,Toulouse,38,37,12099,Ads,279
+169,33,Female,Lyon,27,24,3096,Email,324
+170,49,Male,Toulouse,21,16,7392,Email,297
+171,55,Male,Lyon,3,1,372,Email,133
+172,39,Female,Toulouse,44,42,6510,Ads,261
+173,64,Male,Marseille,50,10,600,Ads,45
+174,22,Male,Toulouse,19,8,1176,Ads,123
+175,39,Female,Marseille,35,17,5593,Social Media,112
+176,45,Female,Toulouse,30,14,840,Social Media,286
+177,35,Male,Marseille,1,0,0,Social Media,56
+178,28,Female,Toulouse,43,2,836,Ads,203
+179,65,Female,Paris,21,20,7200,Email,321
+180,29,Male,Paris,43,21,1092,Social Media,158
+181,41,Female,Paris,48,18,1980,Social Media,124
+182,22,Female,Toulouse,8,8,608,Ads,291
+183,44,Female,Paris,50,23,9683,Email,154
+184,51,Female,Paris,7,1,249,Ads,70
+185,37,Male,Paris,30,7,3234,Email,148
+186,57,Female,Paris,31,30,1710,Social Media,346
+187,26,Female,Marseille,43,3,633,Social Media,25
+188,29,Male,Paris,21,21,4305,Email,276
+189,46,Male,Marseille,22,15,1290,Ads,237
+190,51,Female,Paris,2,2,608,Social Media,288
+191,44,Female,Marseille,27,6,1356,Social Media,11
+192,58,Male,Marseille,42,36,11088,Email,68
+193,53,Male,Paris,30,24,9384,Social Media,5
+194,49,Male,Paris,40,5,1800,Email,189
+195,61,Female,Paris,18,15,5805,Ads,256
+196,23,Female,Toulouse,25,24,4464,Ads,129
+197,48,Male,Paris,29,20,8080,Email,239
+198,33,Male,Paris,14,1,53,Social Media,103
+199,21,Male,Toulouse,9,8,3776,Email,108
+200,46,Male,Paris,44,6,708,Ads,107
+201,45,Female,Lyon,23,17,5576,Social Media,293
+202,30,Male,Lyon,16,0,0,Email,359
+203,60,Female,Toulouse,50,3,1107,Ads,162
+204,37,Male,Lyon,3,3,1203,Social Media,114
+205,29,Male,Marseille,40,35,10500,Ads,324
+206,62,Female,Paris,31,29,10411,Social Media,45
+207,27,Female,Lyon,42,13,3406,Email,348
+208,24,Female,Marseille,40,30,4800,Ads,278
+209,29,Male,Toulouse,39,27,6669,Social Media,259
+210,58,Male,Lyon,24,18,8604,Email,342
+211,61,Female,Toulouse,11,11,1463,Email,23
+212,26,Male,Toulouse,35,24,11448,Ads,239
+213,56,Female,Paris,33,25,6450,Social Media,268
+214,39,Male,Marseille,47,7,189,Social Media,120
+215,36,Female,Marseille,8,1,314,Ads,271
+216,47,Male,Toulouse,15,3,1344,Email,126
+217,21,Female,Marseille,15,6,2124,Email,36
+218,26,Male,Toulouse,26,10,2990,Ads,214
+219,63,Male,Paris,10,7,1085,Social Media,201
+220,44,Male,Toulouse,34,30,8370,Email,240
+221,23,Female,Paris,14,6,1230,Social Media,357
+222,63,Female,Paris,10,6,396,Email,4
+223,41,Female,Toulouse,39,13,819,Ads,153
+224,59,Female,Lyon,19,1,327,Ads,53
+225,64,Female,Paris,6,2,870,Ads,357
+226,29,Male,Toulouse,1,0,0,Ads,356
+227,45,Female,Toulouse,31,5,1000,Email,285
+228,35,Female,Paris,26,20,1020,Email,359
+229,19,Female,Marseille,50,16,3648,Social Media,157
+230,54,Female,Lyon,7,0,0,Social Media,355
+231,62,Female,Toulouse,30,28,2968,Email,311
+232,42,Male,Lyon,20,20,9300,Social Media,210
+233,61,Female,Toulouse,37,29,6351,Ads,298
+234,26,Female,Marseille,30,22,4092,Social Media,75
+235,48,Male,Marseille,48,27,540,Email,364
+236,45,Female,Marseille,25,23,10925,Social Media,56
+237,41,Male,Lyon,4,3,312,Email,208
+238,47,Male,Paris,9,0,0,Email,309
+239,33,Female,Lyon,19,15,7500,Ads,191
+240,28,Female,Toulouse,40,19,1710,Ads,341
+241,45,Male,Lyon,7,5,2065,Ads,214
+242,62,Male,Marseille,26,12,5544,Ads,144
+243,53,Female,Paris,32,8,3568,Email,230
+244,19,Male,Marseille,38,31,4061,Ads,7
+245,64,Male,Lyon,26,10,850,Social Media,336
+246,53,Male,Toulouse,11,0,0,Email,340
+247,22,Male,Paris,38,4,1396,Ads,33
+248,61,Male,Marseille,39,24,6360,Social Media,250
+249,49,Male,Lyon,39,38,18772,Email,271
+250,33,Male,Toulouse,13,2,406,Ads,41
+251,42,Female,Lyon,38,25,12050,Social Media,122
+252,19,Female,Toulouse,46,36,14724,Social Media,29
+253,47,Male,Paris,29,28,6580,Ads,337
+254,61,Male,Paris,40,30,660,Ads,143
+255,49,Male,Toulouse,15,10,2990,Email,279
+256,56,Female,Paris,34,12,3120,Ads,158
+257,31,Male,Marseille,14,14,4214,Ads,163
+258,25,Female,Paris,17,14,2842,Social Media,226
+259,45,Female,Paris,32,18,3672,Ads,281
+260,57,Female,Paris,41,40,18080,Ads,156
+261,45,Female,Lyon,23,11,2486,Social Media,363
+262,57,Female,Toulouse,4,4,272,Email,140
+263,50,Female,Marseille,31,19,3819,Email,82
+264,61,Female,Lyon,23,11,2695,Ads,242
+265,59,Female,Toulouse,29,8,1024,Email,179
+266,32,Male,Paris,16,6,2076,Social Media,343
+267,25,Male,Paris,28,4,208,Ads,14
+268,33,Female,Paris,26,21,7329,Email,113
+269,19,Male,Lyon,24,0,0,Email,180
+270,32,Male,Lyon,38,11,1573,Email,56
+271,23,Male,Lyon,21,11,5489,Email,315
+272,21,Female,Toulouse,26,17,1105,Social Media,164
+273,62,Male,Toulouse,37,36,17568,Social Media,19
+274,46,Male,Toulouse,39,8,384,Email,88
+275,27,Male,Lyon,31,19,8189,Ads,191
+276,28,Female,Paris,10,9,2097,Email,81
+277,18,Female,Paris,44,1,487,Email,260
+278,58,Female,Marseille,22,9,1530,Email,345
+279,47,Female,Marseille,43,12,3792,Ads,12
+280,65,Male,Toulouse,10,3,924,Social Media,74
+281,39,Female,Marseille,29,6,1272,Email,113
+282,30,Male,Toulouse,29,14,5054,Email,300
+283,58,Female,Lyon,38,24,2856,Email,50
+284,39,Female,Lyon,12,6,1494,Social Media,347
+285,31,Male,Paris,46,10,740,Social Media,63
+286,55,Male,Toulouse,8,2,968,Ads,283
+287,26,Male,Marseille,45,24,6072,Social Media,200
+288,54,Female,Paris,37,32,6784,Ads,181
+289,20,Male,Paris,14,7,329,Ads,291
+290,36,Male,Toulouse,16,15,1425,Ads,59
+291,35,Male,Marseille,49,10,3550,Ads,321
+292,46,Female,Toulouse,7,5,1635,Ads,229
+293,36,Male,Toulouse,12,2,272,Ads,63
+294,21,Female,Toulouse,11,8,2096,Social Media,348
+295,46,Male,Marseille,12,12,4896,Email,313
+296,30,Female,Paris,28,21,4872,Social Media,223
+297,58,Male,Marseille,29,28,13384,Social Media,252
+298,46,Female,Marseille,40,3,435,Ads,86
+299,27,Female,Lyon,47,20,1120,Email,26
+300,60,Female,Toulouse,36,26,10062,Social Media,343
+301,31,Male,Paris,41,29,3364,Email,10
+302,25,Male,Marseille,27,27,675,Ads,323
+303,54,Male,Toulouse,24,7,1169,Ads,285
+304,32,Female,Toulouse,8,5,1535,Social Media,56
+305,43,Female,Lyon,7,6,1512,Ads,146
+306,62,Male,Lyon,3,2,296,Social Media,203
+307,57,Female,Paris,21,11,3905,Ads,224
+308,37,Male,Paris,43,13,1404,Email,80
+309,35,Male,Lyon,30,2,894,Social Media,308
+310,34,Male,Toulouse,50,35,6160,Email,184
+311,18,Female,Toulouse,21,5,2015,Social Media,323
+312,24,Female,Paris,50,20,5920,Social Media,274
+313,64,Female,Toulouse,38,8,2944,Ads,178
+314,65,Female,Toulouse,39,18,2628,Email,48
+315,42,Female,Lyon,15,2,426,Social Media,24
+316,63,Female,Lyon,17,17,1887,Email,49
+317,49,Female,Toulouse,3,2,790,Social Media,102
+318,48,Female,Lyon,39,14,602,Ads,148
+319,51,Male,Marseille,44,10,4520,Social Media,351
+320,35,Male,Paris,29,0,0,Ads,239
+321,59,Female,Toulouse,38,13,936,Social Media,50
+322,59,Male,Toulouse,44,33,10428,Email,36
+323,60,Female,Lyon,16,11,5346,Social Media,249
+324,58,Male,Lyon,11,0,0,Social Media,27
+325,27,Female,Paris,19,17,2686,Email,296
+326,52,Female,Toulouse,39,23,1817,Email,184
+327,25,Male,Lyon,24,16,608,Ads,13
+328,26,Male,Lyon,28,1,129,Email,1
+329,56,Male,Paris,31,17,5389,Social Media,356
+330,50,Male,Lyon,19,9,1368,Email,361
+331,36,Male,Toulouse,13,8,2336,Ads,272
+332,63,Female,Paris,18,18,6858,Ads,330
+333,64,Female,Marseille,31,16,4976,Social Media,359
+334,52,Female,Marseille,36,1,252,Email,42
+335,42,Male,Marseille,34,2,646,Email,245
+336,33,Male,Marseille,5,5,1315,Ads,95
+337,36,Male,Marseille,17,0,0,Social Media,18
+338,34,Female,Toulouse,35,8,568,Social Media,141
+339,24,Female,Lyon,18,5,100,Ads,274
+340,28,Female,Marseille,15,4,1068,Social Media,151
+341,55,Female,Paris,2,2,188,Social Media,132
+342,61,Female,Toulouse,48,18,6426,Ads,92
+343,47,Male,Lyon,47,11,5401,Social Media,91
+344,44,Male,Lyon,8,4,1604,Ads,90
+345,42,Male,Marseille,35,10,1440,Ads,321
+346,32,Male,Lyon,48,33,5610,Ads,137
+347,64,Male,Lyon,40,37,10989,Email,55
+348,26,Female,Lyon,18,14,2226,Email,123
+349,23,Male,Lyon,28,9,756,Email,43
+350,42,Female,Marseille,4,3,696,Email,204
+351,37,Female,Paris,26,7,329,Email,257
+352,18,Male,Lyon,37,0,0,Email,92
+353,53,Female,Marseille,31,23,7705,Social Media,70
+354,46,Female,Lyon,33,27,7317,Ads,98
+355,35,Male,Paris,15,5,2345,Email,162
+356,27,Female,Marseille,19,3,1491,Social Media,360
+357,30,Female,Toulouse,19,0,0,Social Media,109
+358,32,Female,Paris,48,26,6474,Email,357
+359,62,Female,Lyon,35,15,6345,Social Media,118
+360,58,Female,Toulouse,38,2,376,Email,2
+361,33,Female,Toulouse,49,44,16808,Ads,88
+362,65,Male,Marseille,27,2,992,Social Media,336
+363,21,Female,Paris,47,36,4752,Ads,150
+364,33,Male,Lyon,2,2,114,Email,25
+365,32,Male,Toulouse,43,0,0,Social Media,99
+366,47,Female,Marseille,39,35,16310,Email,290
+367,45,Female,Paris,3,0,0,Email,82
+368,40,Male,Lyon,3,2,542,Ads,78
+369,52,Female,Paris,7,6,1686,Email,298
+370,25,Male,Paris,47,6,1638,Social Media,245
+371,50,Male,Lyon,37,24,8736,Social Media,342
+372,60,Female,Paris,33,26,11596,Ads,264
+373,64,Female,Marseille,11,7,2086,Ads,132
+374,30,Female,Marseille,17,16,1360,Email,86
+375,18,Male,Paris,36,8,2384,Email,150
+376,30,Female,Toulouse,22,0,0,Email,114
+377,57,Male,Toulouse,33,1,345,Email,109
+378,24,Female,Lyon,8,1,319,Social Media,246
+379,24,Male,Paris,17,8,3448,Email,302
+380,31,Female,Lyon,11,8,1456,Ads,91
+381,41,Male,Marseille,4,0,0,Social Media,44
+382,28,Female,Marseille,25,1,208,Email,247
+383,22,Female,Marseille,9,9,225,Social Media,36
+384,48,Female,Toulouse,24,22,10362,Email,363
+385,65,Male,Lyon,33,7,2051,Ads,261
+386,35,Female,Lyon,23,23,4669,Ads,154
+387,38,Male,Marseille,50,12,1344,Social Media,258
+388,34,Female,Toulouse,46,14,490,Ads,218
+389,49,Male,Marseille,34,28,6636,Email,52
+390,23,Female,Lyon,22,10,2330,Social Media,124
+391,25,Female,Marseille,14,6,870,Email,286
+392,24,Female,Lyon,27,22,6732,Social Media,42
+393,57,Male,Lyon,6,2,234,Social Media,36
+394,31,Male,Toulouse,50,17,867,Social Media,132
+395,22,Female,Lyon,31,9,540,Social Media,177
+396,34,Male,Lyon,33,18,4860,Ads,123
+397,38,Female,Paris,45,1,73,Email,226
+398,41,Male,Marseille,42,31,4650,Ads,135
+399,65,Male,Marseille,37,20,780,Ads,119
+400,27,Male,Lyon,28,25,2475,Ads,207
+401,32,Male,Lyon,13,10,4000,Ads,304
+402,47,Male,Paris,14,3,1218,Social Media,252
+403,31,Male,Paris,40,23,4715,Ads,225
+404,40,Female,Paris,25,6,2418,Email,307
+405,54,Male,Lyon,17,9,4158,Email,192
+406,33,Male,Marseille,28,17,7463,Ads,347
+407,63,Male,Toulouse,23,20,1820,Social Media,180
+408,21,Male,Lyon,41,16,4064,Social Media,105
+409,42,Female,Marseille,43,34,2788,Ads,225
+410,31,Female,Marseille,8,0,0,Ads,335
+411,18,Male,Paris,24,2,826,Ads,50
+412,31,Female,Lyon,19,7,2849,Ads,46
+413,51,Male,Lyon,34,31,12555,Email,295
+414,33,Female,Marseille,31,27,9099,Social Media,274
+415,31,Female,Toulouse,16,2,990,Ads,239
+416,48,Male,Lyon,50,16,3472,Social Media,120
+417,26,Female,Lyon,35,34,3774,Social Media,157
+418,18,Female,Toulouse,22,19,6289,Social Media,232
+419,49,Female,Paris,19,12,2700,Email,358
+420,57,Male,Lyon,14,12,5484,Social Media,302
+421,38,Male,Marseille,24,9,1818,Email,187
+422,63,Male,Marseille,15,13,5915,Ads,94
+423,58,Male,Lyon,17,11,4455,Ads,339
+424,64,Male,Marseille,20,13,4238,Email,245
+425,59,Female,Paris,5,2,726,Email,177
+426,63,Female,Toulouse,41,15,5730,Social Media,105
+427,62,Male,Toulouse,14,14,5124,Ads,66
+428,39,Male,Toulouse,8,2,330,Social Media,254
+429,32,Female,Marseille,38,10,570,Email,40
+430,33,Female,Marseille,17,4,1532,Social Media,214
+431,31,Female,Marseille,36,29,8642,Email,251
+432,56,Female,Marseille,9,9,3105,Social Media,43
+433,36,Female,Toulouse,45,13,351,Social Media,255
+434,38,Male,Toulouse,5,4,428,Ads,278
+435,55,Male,Toulouse,24,1,408,Ads,149
+436,65,Female,Toulouse,37,28,12656,Ads,209
+437,62,Male,Marseille,46,12,1380,Email,34
+438,48,Female,Paris,34,1,415,Email,55
+439,25,Female,Lyon,21,21,2394,Social Media,168
+440,58,Female,Marseille,25,15,5685,Social Media,362
+441,27,Male,Toulouse,18,2,972,Social Media,287
+442,35,Female,Marseille,28,17,3689,Social Media,289
+443,27,Male,Paris,13,4,1748,Ads,167
+444,57,Female,Paris,21,7,2261,Email,252
+445,54,Female,Lyon,47,11,2057,Social Media,168
+446,37,Male,Marseille,15,13,5512,Email,270
+447,27,Male,Paris,28,12,3912,Email,50
+448,38,Female,Lyon,24,6,1344,Email,230
+449,57,Male,Lyon,3,3,1113,Social Media,207
+450,55,Male,Lyon,1,1,477,Social Media,273
+451,21,Male,Marseille,38,30,6000,Email,149
+452,58,Male,Lyon,4,1,241,Email,14
+453,26,Female,Marseille,41,1,29,Social Media,350
+454,20,Male,Lyon,15,15,3885,Email,178
+455,27,Female,Marseille,35,34,2448,Email,169
+456,33,Male,Lyon,40,17,3026,Email,337
+457,47,Female,Paris,21,4,400,Email,282
+458,26,Male,Toulouse,6,3,834,Social Media,131
+459,53,Female,Paris,40,20,7440,Ads,192
+460,35,Male,Lyon,17,15,5640,Ads,90
+461,30,Male,Lyon,44,32,9824,Email,144
+462,58,Male,Paris,32,27,2079,Ads,155
+463,29,Female,Marseille,7,6,150,Social Media,72
+464,45,Male,Paris,25,10,1420,Ads,223
+465,37,Female,Lyon,16,0,0,Email,233
+466,47,Male,Lyon,41,19,6973,Ads,300
+467,47,Female,Marseille,23,17,1581,Ads,329
+468,34,Female,Toulouse,13,0,0,Social Media,196
+469,59,Female,Marseille,17,12,3876,Email,164
+470,37,Female,Paris,31,11,3630,Email,283
+471,59,Female,Toulouse,28,14,5950,Ads,256
+472,35,Male,Toulouse,24,0,0,Email,181
+473,61,Male,Toulouse,31,8,1584,Ads,242
+474,18,Female,Lyon,7,1,289,Ads,252
+475,30,Female,Lyon,30,0,0,Email,222
+476,62,Female,Marseille,16,11,616,Social Media,120
+477,28,Male,Toulouse,25,6,996,Email,22
+478,24,Male,Paris,36,23,2070,Social Media,291
+479,63,Male,Lyon,25,5,1075,Ads,123
+480,27,Female,Paris,34,16,912,Ads,69
+481,34,Male,Toulouse,48,19,7657,Ads,169
+482,19,Female,Marseille,40,40,8840,Ads,54
+483,35,Male,Toulouse,19,1,319,Ads,292
+484,34,Female,Marseille,13,13,520,Social Media,230
+485,57,Male,Toulouse,10,10,860,Ads,353
+486,62,Male,Lyon,10,3,918,Ads,60
+487,24,Female,Toulouse,15,14,6986,Ads,249
+488,54,Male,Lyon,8,4,1752,Ads,83
+489,43,Female,Lyon,10,9,2889,Social Media,250
+490,59,Male,Lyon,39,29,8845,Email,291
+491,40,Female,Marseille,42,0,0,Social Media,173
+492,39,Male,Lyon,1,1,493,Ads,154
+493,45,Male,Paris,48,34,16490,Email,233
+494,62,Female,Lyon,28,21,3885,Ads,102
+495,31,Male,Toulouse,14,8,872,Ads,358
+496,41,Male,Marseille,45,34,16660,Email,273
+497,30,Male,Toulouse,37,5,2405,Ads,351
+498,60,Female,Paris,12,2,134,Email,53
+499,32,Male,Lyon,26,19,2185,Social Media,271
+500,45,Female,Lyon,34,20,4880,Ads,97
+501,24,Male,Lyon,22,14,2422,Social Media,94
+502,32,Male,Lyon,6,3,471,Ads,360
+503,28,Female,Marseille,33,32,3264,Social Media,292
+504,31,Female,Toulouse,25,5,765,Social Media,215
+505,49,Male,Marseille,37,16,6352,Ads,325
+506,26,Female,Marseille,10,8,408,Ads,43
+507,43,Female,Toulouse,35,17,2873,Social Media,208
+508,32,Male,Toulouse,49,19,6593,Social Media,38
+509,40,Female,Paris,19,16,4864,Social Media,266
+510,21,Male,Paris,29,5,1375,Social Media,347
+511,65,Female,Lyon,7,1,290,Social Media,66
+512,31,Female,Paris,3,3,891,Social Media,35
+513,29,Male,Lyon,48,4,732,Ads,138
+514,37,Female,Toulouse,25,8,264,Ads,154
+515,22,Male,Paris,27,7,1638,Social Media,167
+516,57,Male,Paris,33,2,256,Social Media,248
+517,45,Male,Lyon,23,11,3762,Ads,129
+518,37,Male,Marseille,23,17,8415,Email,292
+519,19,Male,Paris,45,42,8022,Email,138
+520,51,Female,Marseille,26,16,3616,Email,185
+521,21,Female,Marseille,24,9,360,Ads,318
+522,31,Male,Lyon,3,1,428,Social Media,250
+523,41,Female,Lyon,41,15,6300,Ads,319
+524,60,Female,Marseille,7,1,416,Social Media,77
+525,40,Male,Marseille,49,37,18500,Ads,70
+526,43,Female,Toulouse,2,1,336,Ads,99
+527,27,Female,Lyon,3,2,396,Email,233
+528,30,Female,Lyon,7,2,790,Ads,198
+529,22,Female,Marseille,37,22,7150,Social Media,47
+530,46,Male,Lyon,19,19,1539,Ads,182
+531,55,Male,Toulouse,6,6,1008,Ads,65
+532,29,Female,Toulouse,6,0,0,Email,351
+533,65,Male,Marseille,30,7,2401,Social Media,321
+534,50,Male,Lyon,17,10,1800,Social Media,113
+535,26,Female,Toulouse,22,1,24,Social Media,20
+536,39,Female,Paris,42,20,9520,Social Media,334
+537,51,Female,Paris,19,9,2925,Email,120
+538,24,Female,Marseille,1,1,429,Social Media,363
+539,53,Male,Paris,13,12,1872,Ads,118
+540,55,Female,Marseille,47,43,1290,Social Media,106
+541,61,Female,Toulouse,29,13,6279,Social Media,167
+542,18,Male,Lyon,23,19,2223,Ads,213
+543,49,Female,Paris,18,17,7327,Email,85
+544,43,Male,Marseille,25,14,3304,Ads,207
+545,48,Male,Lyon,48,41,4100,Social Media,300
+546,31,Male,Lyon,37,16,2944,Ads,184
+547,38,Female,Lyon,32,32,4864,Social Media,357
+548,30,Female,Toulouse,36,7,245,Ads,70
+549,40,Female,Lyon,23,23,1265,Social Media,78
+550,43,Male,Lyon,22,13,1612,Ads,166
+551,53,Male,Lyon,47,27,6993,Ads,158
+552,65,Male,Toulouse,46,34,8636,Email,23
+553,38,Female,Lyon,36,31,682,Email,72
+554,44,Female,Marseille,17,8,2792,Email,201
+555,36,Female,Toulouse,30,7,2863,Social Media,247
+556,47,Female,Marseille,4,4,1896,Ads,301
+557,60,Female,Marseille,20,16,2288,Ads,256
+558,51,Female,Marseille,8,1,362,Social Media,97
+559,47,Male,Lyon,41,2,780,Social Media,143
+560,29,Male,Paris,24,11,4510,Ads,274
+561,49,Female,Paris,18,12,5040,Email,126
+562,24,Male,Paris,36,36,12852,Ads,71
+563,39,Female,Marseille,49,16,7584,Social Media,132
+564,55,Male,Paris,44,21,3087,Ads,74
+565,65,Female,Paris,17,9,3609,Social Media,306
+566,31,Male,Lyon,1,1,41,Email,104
+567,45,Male,Toulouse,38,19,2679,Email,205
+568,37,Male,Toulouse,27,11,4411,Ads,77
+569,65,Female,Marseille,17,3,828,Social Media,234
+570,37,Male,Marseille,1,1,449,Ads,246
+571,27,Female,Lyon,47,30,6180,Email,183
+572,23,Female,Toulouse,33,28,13160,Ads,145
+573,47,Female,Lyon,18,4,240,Email,295
+574,23,Female,Toulouse,30,22,7942,Social Media,109
+575,21,Female,Toulouse,21,13,767,Email,352
+576,30,Female,Paris,1,1,129,Ads,308
+577,46,Male,Marseille,8,4,1668,Social Media,297
+578,44,Female,Marseille,16,10,3070,Email,236
+579,29,Female,Paris,37,6,246,Social Media,54
+580,51,Male,Toulouse,20,2,720,Social Media,293
+581,30,Female,Marseille,45,31,1643,Social Media,79
+582,52,Male,Lyon,2,0,0,Ads,295
+583,41,Male,Toulouse,13,9,4473,Social Media,266
+584,40,Male,Paris,11,6,1470,Ads,218
+585,43,Male,Toulouse,12,5,2270,Ads,134
+586,30,Female,Lyon,42,34,13668,Social Media,332
+587,35,Female,Marseille,4,2,662,Social Media,319
+588,51,Female,Lyon,43,42,18816,Ads,357
+589,38,Male,Lyon,12,7,777,Email,75
+590,46,Male,Marseille,34,16,1760,Email,225
+591,24,Female,Paris,12,0,0,Ads,279
+592,48,Male,Lyon,32,26,11726,Social Media,83
+593,30,Female,Lyon,13,2,638,Ads,306
+594,41,Male,Paris,6,6,1068,Social Media,217
+595,53,Female,Lyon,11,9,3672,Email,326
+596,35,Female,Marseille,28,1,115,Social Media,21
+597,51,Male,Marseille,2,2,876,Social Media,6
+598,22,Male,Marseille,28,27,4941,Social Media,185
+599,61,Female,Toulouse,9,2,190,Social Media,352
+600,55,Male,Paris,2,0,0,Email,24
+601,38,Female,Toulouse,15,9,1395,Email,131
+602,63,Female,Lyon,33,18,3582,Ads,70
+603,27,Female,Marseille,27,11,1617,Social Media,197
+604,37,Male,Lyon,19,9,2178,Social Media,337
+605,52,Male,Toulouse,34,18,1296,Email,307
+606,42,Female,Lyon,50,33,15048,Email,32
+607,31,Male,Marseille,12,12,3492,Ads,364
+608,44,Male,Toulouse,28,3,1221,Ads,323
+609,36,Male,Toulouse,46,16,736,Social Media,159
+610,32,Male,Lyon,13,9,2313,Ads,116
+611,44,Male,Toulouse,4,4,1812,Ads,181
+612,65,Male,Marseille,3,1,414,Social Media,187
+613,26,Female,Lyon,47,13,3939,Email,56
+614,48,Female,Marseille,10,1,266,Social Media,120
+615,61,Female,Lyon,17,8,2376,Social Media,335
+616,63,Male,Marseille,23,10,4150,Social Media,265
+617,41,Female,Marseille,35,13,2756,Social Media,171
+618,18,Female,Lyon,3,2,686,Ads,219
+619,42,Male,Toulouse,5,4,1748,Email,221
+620,24,Female,Paris,48,5,2180,Social Media,307
+621,39,Female,Marseille,31,3,1272,Ads,64
+622,19,Male,Toulouse,32,11,2035,Email,356
+623,54,Male,Toulouse,36,31,4185,Ads,163
+624,35,Male,Paris,38,17,884,Social Media,335
+625,53,Female,Marseille,14,6,1068,Ads,124
+626,39,Female,Marseille,26,3,180,Social Media,85
+627,18,Female,Toulouse,45,12,5172,Email,115
+628,21,Female,Toulouse,26,4,568,Ads,345
+629,58,Male,Toulouse,49,9,4257,Ads,193
+630,46,Female,Toulouse,12,6,606,Social Media,16
+631,61,Male,Lyon,17,2,454,Social Media,214
+632,48,Male,Lyon,11,10,2630,Email,33
+633,44,Male,Toulouse,50,3,1260,Email,193
+634,26,Male,Paris,28,8,3728,Ads,307
+635,48,Female,Paris,37,35,9660,Email,220
+636,22,Male,Marseille,24,21,3549,Email,276
+637,26,Female,Toulouse,45,41,12423,Social Media,95
+638,42,Male,Toulouse,49,42,20286,Ads,16
+639,33,Female,Paris,6,6,2076,Social Media,229
+640,65,Female,Paris,18,5,2065,Ads,183
+641,42,Female,Toulouse,16,7,1120,Social Media,214
+642,60,Female,Toulouse,24,0,0,Ads,177
+643,58,Female,Toulouse,22,11,3784,Email,159
+644,49,Male,Paris,30,14,3136,Email,209
+645,64,Female,Paris,30,2,522,Ads,189
+646,34,Male,Lyon,49,28,4312,Email,37
+647,47,Male,Lyon,18,11,2112,Social Media,212
+648,50,Male,Marseille,44,24,1656,Ads,360
+649,32,Female,Toulouse,21,14,742,Email,148
+650,55,Female,Lyon,10,2,702,Email,319
+651,28,Female,Marseille,8,3,873,Ads,221
+652,22,Female,Toulouse,29,21,6468,Ads,256
+653,50,Female,Toulouse,27,14,4634,Ads,280
+654,21,Male,Paris,43,11,5247,Ads,258
+655,40,Female,Paris,33,32,8128,Social Media,57
+656,43,Male,Marseille,35,23,11086,Ads,334
+657,30,Female,Lyon,43,4,1212,Ads,346
+658,20,Male,Toulouse,1,0,0,Ads,184
+659,22,Male,Toulouse,34,5,800,Email,316
+660,53,Male,Lyon,3,3,879,Ads,328
+661,43,Female,Paris,18,12,264,Social Media,125
+662,33,Female,Lyon,14,13,4316,Social Media,108
+663,33,Female,Toulouse,50,27,4968,Email,20
+664,59,Male,Paris,28,5,880,Social Media,211
+665,30,Female,Lyon,47,5,1100,Ads,238
+666,42,Male,Marseille,19,14,4186,Social Media,124
+667,22,Female,Toulouse,29,23,6118,Social Media,2
+668,32,Female,Toulouse,33,0,0,Email,93
+669,32,Male,Paris,40,8,2656,Email,287
+670,47,Male,Toulouse,7,5,1460,Social Media,21
+671,21,Male,Paris,41,25,1525,Email,36
+672,37,Female,Lyon,14,14,3990,Ads,244
+673,63,Male,Marseille,18,6,192,Social Media,314
+674,51,Female,Toulouse,43,25,2625,Email,116
+675,45,Male,Lyon,46,6,714,Email,281
+676,20,Female,Marseille,25,9,4239,Ads,38
+677,62,Male,Toulouse,46,15,4635,Social Media,278
+678,32,Male,Toulouse,10,9,3663,Social Media,364
+679,27,Male,Lyon,44,18,3420,Ads,124
+680,55,Male,Marseille,18,16,1712,Social Media,38
+681,42,Male,Marseille,23,12,1272,Ads,221
+682,51,Male,Paris,28,0,0,Email,350
+683,63,Female,Marseille,38,12,2604,Email,66
+684,30,Female,Lyon,50,45,12060,Ads,78
+685,56,Male,Toulouse,7,4,1584,Ads,131
+686,23,Female,Toulouse,38,25,2875,Social Media,323
+687,55,Female,Lyon,9,2,194,Social Media,130
+688,33,Male,Paris,29,23,10672,Social Media,138
+689,36,Male,Paris,13,0,0,Social Media,35
+690,33,Male,Lyon,37,6,1182,Social Media,51
+691,23,Male,Toulouse,22,20,1300,Social Media,29
+692,30,Female,Toulouse,43,21,7455,Ads,314
+693,43,Female,Lyon,21,11,2068,Email,129
+694,57,Female,Marseille,25,6,2784,Ads,205
+695,64,Male,Toulouse,7,6,2676,Social Media,99
+696,42,Female,Marseille,44,27,3834,Email,322
+697,43,Female,Lyon,26,9,3546,Email,138
+698,24,Female,Lyon,14,13,1339,Email,218
+699,55,Male,Marseille,25,21,5796,Ads,259
+700,61,Male,Marseille,1,1,303,Social Media,203
+701,60,Male,Paris,17,4,444,Ads,223
+702,60,Male,Paris,4,3,339,Email,8
+703,46,Female,Lyon,22,20,7440,Ads,64
+704,18,Female,Lyon,34,20,8260,Ads,37
+705,35,Male,Toulouse,32,18,7776,Social Media,158
+706,53,Male,Lyon,22,10,4410,Ads,76
+707,40,Male,Lyon,26,16,1536,Email,323
+708,33,Female,Marseille,30,3,90,Social Media,210
+709,47,Male,Toulouse,35,3,447,Email,262
+710,21,Male,Toulouse,5,3,648,Email,197
+711,52,Male,Paris,10,1,147,Social Media,344
+712,22,Female,Marseille,38,6,318,Social Media,201
+713,50,Female,Lyon,25,6,684,Ads,313
+714,31,Male,Toulouse,11,3,588,Email,41
+715,36,Female,Paris,23,20,2260,Social Media,120
+716,24,Male,Paris,8,3,468,Ads,26
+717,46,Female,Toulouse,40,10,4620,Email,25
+718,49,Female,Toulouse,20,10,4530,Ads,326
+719,32,Female,Marseille,49,0,0,Ads,121
+720,22,Male,Paris,44,42,12600,Ads,102
+721,37,Female,Lyon,13,2,284,Email,43
+722,22,Male,Marseille,42,29,11397,Ads,56
+723,61,Male,Paris,41,17,7361,Social Media,365
+724,46,Male,Lyon,26,10,1360,Social Media,23
+725,53,Male,Toulouse,42,17,6647,Social Media,267
+726,52,Female,Lyon,47,21,756,Social Media,216
+727,50,Male,Lyon,30,17,5185,Social Media,318
+728,47,Male,Toulouse,18,4,1016,Ads,128
+729,52,Female,Marseille,5,2,104,Email,145
+730,39,Female,Marseille,23,22,1518,Ads,351
+731,27,Female,Paris,50,14,5656,Email,195
+732,33,Male,Lyon,18,13,3783,Email,236
+733,53,Male,Marseille,7,5,1135,Ads,219
+734,63,Female,Lyon,43,31,6076,Email,232
+735,37,Female,Paris,37,5,1725,Email,216
+736,65,Female,Paris,44,19,2907,Ads,263
+737,49,Male,Paris,15,10,3850,Social Media,261
+738,62,Female,Paris,16,1,235,Social Media,146
+739,24,Female,Paris,34,21,10122,Ads,130
+740,25,Female,Marseille,43,15,4695,Social Media,264
+741,57,Male,Paris,17,17,3400,Email,77
+742,45,Female,Marseille,22,14,5334,Ads,217
+743,21,Female,Lyon,1,0,0,Ads,42
+744,62,Male,Marseille,21,21,2583,Ads,61
+745,54,Male,Paris,48,41,12382,Social Media,128
+746,25,Male,Paris,47,9,2889,Social Media,111
+747,48,Male,Paris,44,11,2860,Social Media,138
+748,60,Male,Paris,21,17,3349,Social Media,107
+749,36,Male,Lyon,2,0,0,Ads,282
+750,39,Male,Lyon,37,5,945,Ads,206
+751,48,Female,Toulouse,20,7,175,Ads,37
+752,34,Male,Toulouse,39,12,984,Social Media,225
+753,19,Male,Toulouse,34,25,4625,Email,354
+754,43,Male,Paris,1,0,0,Social Media,67
+755,59,Female,Lyon,18,3,342,Email,11
+756,37,Male,Marseille,44,7,2464,Ads,264
+757,37,Male,Lyon,16,0,0,Ads,143
+758,62,Male,Lyon,30,27,10449,Email,20
+759,31,Female,Lyon,36,33,13398,Ads,100
+760,30,Male,Paris,18,8,832,Email,248
+761,47,Male,Lyon,48,23,2254,Social Media,276
+762,55,Female,Paris,24,24,4632,Email,137
+763,20,Female,Lyon,15,9,2529,Email,267
+764,28,Female,Lyon,39,19,6631,Email,340
+765,24,Male,Paris,20,19,3629,Social Media,18
+766,56,Female,Lyon,43,32,7552,Social Media,37
+767,20,Male,Toulouse,30,2,872,Email,89
+768,40,Male,Marseille,19,5,2435,Social Media,237
+769,52,Male,Lyon,36,3,360,Ads,250
+770,64,Female,Lyon,6,4,1920,Email,58
+771,26,Female,Paris,12,7,2345,Email,99
+772,50,Male,Toulouse,30,29,3741,Ads,224
+773,47,Female,Paris,41,37,2997,Email,174
+774,26,Male,Lyon,26,26,9022,Email,151
+775,30,Male,Toulouse,13,5,1890,Email,259
+776,53,Male,Lyon,11,0,0,Ads,326
+777,29,Male,Lyon,19,15,2715,Social Media,207
+778,37,Male,Paris,24,20,6620,Ads,206
+779,33,Female,Marseille,6,1,351,Email,358
+780,39,Female,Marseille,1,1,48,Social Media,64
+781,59,Female,Paris,10,7,3206,Social Media,190
+782,61,Female,Toulouse,35,13,1326,Ads,332
+783,34,Female,Toulouse,37,26,9386,Email,186
+784,25,Female,Paris,34,5,1660,Social Media,225
+785,65,Female,Paris,43,31,5177,Social Media,303
+786,18,Female,Paris,22,12,1056,Email,12
+787,18,Male,Paris,18,6,924,Ads,247
+788,23,Female,Toulouse,39,8,2000,Ads,295
+789,45,Female,Paris,29,2,874,Social Media,271
+790,41,Male,Paris,4,4,804,Email,131
+791,26,Male,Marseille,19,5,535,Ads,217
+792,38,Male,Marseille,36,17,4641,Social Media,308
+793,53,Male,Toulouse,16,12,3012,Email,143
+794,26,Male,Marseille,27,4,560,Social Media,75
+795,37,Female,Lyon,31,22,1848,Ads,203
+796,18,Male,Marseille,38,34,7140,Ads,11
+797,53,Female,Toulouse,4,0,0,Email,25
+798,37,Female,Toulouse,35,3,963,Email,87
+799,25,Male,Lyon,22,21,945,Email,182
+800,23,Female,Marseille,19,9,1683,Ads,252
+801,45,Female,Lyon,5,4,476,Email,271
+802,33,Female,Toulouse,32,18,6750,Email,334
+803,39,Female,Lyon,43,26,9646,Ads,197
+804,21,Female,Toulouse,20,8,3600,Social Media,92
+805,50,Female,Lyon,2,0,0,Social Media,23
+806,59,Male,Lyon,7,0,0,Email,352
+807,54,Male,Paris,19,10,2570,Ads,325
+808,33,Female,Paris,8,3,810,Ads,48
+809,27,Male,Lyon,29,19,3059,Social Media,88
+810,58,Male,Marseille,33,20,4280,Ads,74
+811,28,Male,Toulouse,23,7,2695,Social Media,281
+812,30,Female,Lyon,43,1,256,Ads,291
+813,29,Female,Paris,15,3,852,Email,249
+814,32,Male,Marseille,10,0,0,Email,196
+815,24,Male,Paris,30,12,5676,Email,161
+816,51,Male,Paris,50,43,9847,Ads,46
+817,20,Male,Marseille,17,14,6944,Social Media,23
+818,57,Female,Toulouse,13,7,2842,Ads,80
+819,25,Male,Paris,39,33,4191,Ads,345
+820,63,Male,Paris,19,6,2250,Ads,138
+821,36,Male,Paris,46,40,18080,Social Media,68
+822,31,Male,Toulouse,24,8,3608,Ads,279
+823,35,Male,Lyon,19,12,4008,Ads,172
+824,44,Female,Lyon,15,3,690,Ads,252
+825,43,Male,Marseille,32,2,464,Ads,283
+826,19,Male,Toulouse,36,17,833,Ads,302
+827,51,Female,Toulouse,34,13,3796,Ads,225
+828,50,Female,Toulouse,38,36,1404,Social Media,340
+829,64,Female,Marseille,34,16,7120,Ads,242
+830,31,Female,Lyon,40,28,11508,Email,222
+831,28,Male,Paris,43,5,1240,Email,314
+832,52,Female,Lyon,17,1,210,Ads,201
+833,32,Male,Paris,6,4,696,Social Media,133
+834,42,Male,Lyon,24,15,3030,Social Media,123
+835,44,Female,Paris,25,2,184,Ads,125
+836,33,Male,Lyon,14,14,5012,Social Media,235
+837,26,Female,Toulouse,29,27,5724,Social Media,135
+838,28,Male,Paris,30,28,3500,Social Media,186
+839,54,Female,Paris,11,1,476,Social Media,329
+840,25,Female,Toulouse,23,8,216,Social Media,276
+841,43,Female,Marseille,15,14,5642,Ads,230
+842,22,Female,Lyon,33,14,1064,Social Media,305
+843,39,Male,Lyon,37,10,3720,Email,353
+844,65,Male,Paris,3,1,88,Email,191
+845,36,Male,Toulouse,6,6,2232,Email,160
+846,28,Female,Toulouse,17,1,362,Ads,179
+847,61,Male,Toulouse,28,23,5060,Email,116
+848,24,Male,Paris,21,11,2552,Social Media,182
+849,64,Female,Toulouse,47,13,5616,Ads,317
+850,29,Female,Toulouse,27,12,3408,Social Media,112
+851,21,Male,Toulouse,16,15,4650,Ads,34
+852,62,Male,Paris,24,6,2964,Email,21
+853,27,Female,Toulouse,31,0,0,Email,315
+854,55,Female,Paris,30,13,6058,Social Media,1
+855,32,Male,Toulouse,33,31,14384,Ads,65
+856,37,Female,Marseille,27,19,4655,Ads,53
+857,65,Male,Lyon,23,12,5844,Social Media,91
+858,46,Female,Paris,32,14,3234,Ads,48
+859,21,Male,Marseille,29,27,12339,Ads,169
+860,42,Female,Toulouse,38,21,10122,Social Media,340
+861,40,Female,Paris,20,13,4290,Email,248
+862,30,Female,Toulouse,29,15,1290,Ads,359
+863,36,Male,Paris,50,20,3220,Email,238
+864,45,Male,Toulouse,32,29,5481,Ads,204
+865,36,Female,Paris,4,3,1020,Social Media,234
+866,26,Female,Toulouse,49,22,7018,Ads,41
+867,53,Female,Lyon,2,2,334,Social Media,170
+868,60,Male,Paris,17,8,3352,Email,193
+869,56,Female,Lyon,26,20,4460,Social Media,48
+870,43,Female,Toulouse,14,4,1300,Ads,350
+871,41,Male,Marseille,19,5,2400,Social Media,139
+872,47,Female,Marseille,38,10,280,Social Media,42
+873,24,Male,Toulouse,9,2,920,Email,57
+874,18,Female,Toulouse,9,2,84,Email,77
+875,65,Female,Lyon,37,16,5088,Social Media,300
+876,56,Male,Lyon,4,3,1068,Email,267
+877,33,Female,Marseille,20,8,3792,Ads,278
+878,28,Male,Toulouse,22,14,5726,Social Media,45
+879,58,Female,Paris,16,8,2392,Ads,214
+880,32,Male,Lyon,29,8,2728,Email,307
+881,61,Female,Paris,21,19,3933,Social Media,155
+882,32,Female,Lyon,28,24,6984,Ads,137
+883,63,Female,Marseille,24,9,1881,Email,326
+884,53,Male,Toulouse,27,14,2968,Social Media,159
+885,25,Male,Marseille,26,25,9250,Email,27
+886,49,Male,Lyon,13,1,396,Ads,272
+887,20,Male,Lyon,3,2,426,Email,133
+888,46,Male,Toulouse,41,7,3115,Social Media,192
+889,28,Male,Marseille,17,15,5415,Social Media,75
+890,42,Male,Toulouse,50,48,18288,Social Media,156
+891,24,Male,Toulouse,12,12,1056,Email,193
+892,33,Female,Lyon,48,1,282,Social Media,205
+893,35,Male,Marseille,29,23,5497,Email,150
+894,47,Male,Marseille,18,9,3276,Social Media,67
+895,32,Female,Paris,17,11,1573,Social Media,5
+896,26,Female,Marseille,19,16,1984,Ads,198
+897,52,Male,Toulouse,25,12,3000,Ads,47
+898,41,Female,Lyon,45,45,20340,Email,236
+899,41,Female,Toulouse,16,3,1470,Social Media,82
+900,46,Male,Paris,38,4,728,Ads,120
+901,56,Male,Toulouse,48,12,732,Email,62
+902,49,Female,Paris,23,22,9526,Ads,19
+903,38,Female,Toulouse,17,12,4896,Social Media,53
+904,38,Female,Paris,28,18,3906,Email,218
+905,32,Male,Lyon,43,18,6840,Ads,116
+906,34,Female,Marseille,11,5,1595,Social Media,82
+907,65,Male,Lyon,2,1,332,Ads,287
+908,48,Male,Toulouse,31,16,6512,Social Media,130
+909,37,Male,Marseille,7,3,1173,Email,351
+910,25,Female,Marseille,13,5,2015,Ads,98
+911,28,Female,Lyon,49,47,2068,Social Media,114
+912,38,Female,Lyon,33,10,1540,Email,268
+913,21,Male,Lyon,13,8,2272,Ads,43
+914,35,Female,Toulouse,48,37,15429,Email,336
+915,30,Male,Lyon,38,21,5250,Ads,19
+916,30,Female,Toulouse,15,14,574,Ads,74
+917,65,Male,Marseille,11,4,636,Social Media,302
+918,50,Male,Lyon,38,3,63,Email,127
+919,31,Female,Toulouse,31,6,1188,Email,305
+920,32,Female,Toulouse,14,5,2330,Ads,159
+921,62,Female,Toulouse,35,20,7920,Ads,93
+922,38,Male,Marseille,2,2,580,Email,162
+923,46,Male,Lyon,33,6,1692,Social Media,194
+924,18,Male,Toulouse,27,3,1284,Social Media,361
+925,40,Female,Toulouse,10,10,3810,Social Media,150
+926,50,Female,Paris,39,26,8528,Email,271
+927,57,Male,Marseille,44,36,13644,Ads,138
+928,27,Female,Marseille,19,8,2552,Ads,184
+929,47,Female,Marseille,23,2,276,Ads,81
+930,61,Male,Paris,42,26,9776,Social Media,149
+931,23,Female,Paris,21,3,729,Ads,117
+932,18,Female,Lyon,39,22,484,Social Media,284
+933,51,Female,Paris,34,34,6630,Email,89
+934,55,Female,Paris,20,11,3938,Ads,103
+935,39,Female,Toulouse,43,33,7194,Email,280
+936,22,Female,Toulouse,11,4,628,Social Media,99
+937,51,Female,Lyon,33,13,819,Ads,87
+938,51,Male,Marseille,21,15,1470,Social Media,16
+939,24,Male,Toulouse,3,1,269,Email,287
+940,47,Female,Toulouse,18,11,3256,Social Media,40
+941,24,Male,Marseille,31,29,6699,Social Media,161
+942,24,Female,Lyon,13,11,4543,Ads,273
+943,36,Female,Marseille,50,6,606,Social Media,332
+944,61,Female,Lyon,32,15,2610,Email,352
+945,63,Female,Marseille,1,0,0,Ads,312
+946,19,Female,Toulouse,46,23,9292,Ads,35
+947,51,Male,Toulouse,15,3,882,Social Media,215
+948,64,Female,Marseille,14,7,1225,Email,314
+949,49,Female,Marseille,10,10,2180,Email,340
+950,21,Female,Toulouse,33,3,291,Email,115
+951,53,Male,Paris,2,0,0,Social Media,305
+952,63,Female,Lyon,10,9,2448,Ads,258
+953,48,Male,Paris,12,3,1059,Social Media,133
+954,63,Female,Toulouse,17,13,2301,Ads,121
+955,58,Male,Toulouse,6,1,101,Social Media,266
+956,60,Female,Marseille,21,8,3816,Ads,337
+957,26,Female,Marseille,46,23,575,Social Media,300
+958,50,Male,Lyon,7,6,1014,Social Media,53
+959,63,Female,Toulouse,20,12,5688,Ads,358
+960,26,Male,Marseille,18,18,4968,Ads,313
+961,65,Female,Lyon,6,1,220,Social Media,7
+962,62,Male,Paris,7,5,1290,Ads,225
+963,32,Male,Toulouse,8,3,201,Social Media,233
+964,28,Male,Toulouse,48,10,2680,Email,157
+965,45,Female,Paris,27,27,12663,Email,23
+966,58,Male,Toulouse,12,2,948,Email,136
+967,26,Female,Paris,14,11,1815,Social Media,157
+968,42,Female,Marseille,36,8,2552,Ads,70
+969,63,Female,Lyon,7,0,0,Email,358
+970,54,Male,Lyon,4,2,316,Email,208
+971,22,Male,Marseille,39,0,0,Email,29
+972,40,Male,Toulouse,29,9,2196,Ads,363
+973,38,Female,Toulouse,22,18,6282,Ads,298
+974,34,Female,Paris,46,19,3990,Social Media,24
+975,45,Female,Lyon,24,19,7448,Social Media,338
+976,33,Female,Paris,33,9,3636,Email,201
+977,42,Male,Paris,48,17,7242,Social Media,296
+978,30,Female,Marseille,2,1,363,Email,314
+979,22,Male,Marseille,23,19,7220,Email,196
+980,58,Male,Lyon,4,2,86,Email,238
+981,51,Female,Marseille,38,23,10994,Email,356
+982,24,Male,Paris,33,23,3335,Email,355
+983,60,Female,Lyon,24,12,4344,Email,140
+984,41,Female,Marseille,13,9,3231,Email,138
+985,62,Male,Lyon,38,1,384,Social Media,238
+986,33,Male,Marseille,39,22,660,Ads,92
+987,40,Female,Toulouse,14,3,591,Ads,203
+988,32,Female,Toulouse,47,18,4896,Ads,209
+989,49,Male,Toulouse,21,7,882,Email,10
+990,41,Male,Lyon,34,2,140,Ads,307
+991,58,Male,Lyon,33,1,260,Social Media,77
+992,21,Male,Paris,24,2,762,Email,92
+993,18,Female,Lyon,22,16,384,Social Media,196
+994,44,Female,Lyon,4,2,810,Email,205
+995,23,Female,Toulouse,10,8,2344,Ads,194
+996,55,Female,Paris,29,9,3564,Email,84
+997,32,Female,Paris,7,7,2086,Email,344
+998,34,Female,Lyon,48,14,3584,Email,258
+999,21,Male,Lyon,44,43,1290,Email,119
+1000,49,Female,Paris,9,3,423,Ads,96
